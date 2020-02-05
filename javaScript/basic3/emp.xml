@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emps>
+  <emp>
+    <empno>7788</empno>
+    <ename>SMITH</ename>
+    <sal>800</sal>
+    <hiredate>2001-5-1</hiredate>
+    <mgr>이수연</mgr>
+    <comm>500</comm>
+    <job>MANAGER</job>
+  </emp>
+  <emp>
+    <empno>7888</empno>
+    <ename>ALLEN</ename>
+    <sal>5200</sal>
+    <hiredate>1988-5-9</hiredate>
+    <mgr>이혜진</mgr>
+    <comm>900</comm>
+    <job>SALESMAN</job>
+  </emp>
+  <emp>
+    <empno>7911</empno>
+    <ename>BLANK</ename>
+    <sal>8600</sal>
+    <hiredate>1988-11-15</hiredate>
+    <mgr>김태훈</mgr>
+    <comm>900</comm>
+    <job>DOCTOR</job>
+  </emp>
+</emps>
